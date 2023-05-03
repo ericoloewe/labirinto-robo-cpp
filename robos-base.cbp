@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="robos-base" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="./robos-base" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="./" />
+				<Option object_output="./" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="./robos-base" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="/usr/bin" />
+				<Option object_output="./" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="/usr/include" />
+		</Compiler>
+		<Linker>
+			<Add library="glut" />
+			<Add library="GL" />
+			<Add library="GLU" />
+			<Add library="jpeg" />
+			<Add directory="/usr/lib" />
+		</Linker>
+		<Unit filename="Arvore.h" />
+		<Unit filename="C3PO.cpp" />
+		<Unit filename="C3PO.h" />
+		<Unit filename="GL.cpp" />
+		<Unit filename="GL.h" />
+		<Unit filename="LabirintoTeste.cpp" />
+		<Unit filename="LabirintoTeste.h" />
+		<Unit filename="Nodo.h" />
+		<Unit filename="R2D2.cpp" />
+		<Unit filename="R2D2.h" />
+		<Unit filename="Robo.h" />
+		<Unit filename="RoboB9.cpp" />
+		<Unit filename="RoboB9.h" />
+		<Unit filename="Texture.cpp" />
+		<Unit filename="Texture.h" />
+		<Unit filename="Walle.cpp" />
+		<Unit filename="Walle.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

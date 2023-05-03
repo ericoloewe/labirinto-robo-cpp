@@ -1,0 +1,546 @@
+# depslib dependency file v1.0
+1415212658 source:b:\code\codeblocks\robos-base\gl.cpp
+	"GL.h"
+	<sstream>
+
+1414781577 
+
+1415032720 b:\code\codeblocks\robos-base\gl.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cmath>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Labirinto.h"
+	"Robo.h"
+	"Texture.h"
+
+1320027772 "
+
+1415032722 b:\code\codeblocks\robos-base\include\gl\glut.h
+	"freeglut.h"
+
+1320031136 h"
+
+1415032722 b:\code\codeblocks\robos-base\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1320031136 ext.h"
+
+1415032722 b:\code\codeblocks\robos-base\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1415032722 b:\code\codeblocks\robos-base\include\gl\freeglut_ext.h
+
+1415810790 b:\code\codeblocks\robos-base\labirinto.h
+	"Point.h"
+	<string>
+
+1416334162 b:\code\codeblocks\robos-base\point.h
+
+1415212652 b:\code\codeblocks\robos-base\robo.h
+	<vector>
+	"Point.h"
+	"Texture.h"
+
+1415032720 b:\code\codeblocks\robos-base\texture.h
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<jpeglib.h>
+
+1320027714 >
+
+1415032722 b:\code\codeblocks\robos-base\include\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1415032722 b:\code\codeblocks\robos-base\include\jconfig.h
+
+1415032722 b:\code\codeblocks\robos-base\include\jmorecfg.h
+
+1415032722 b:\code\codeblocks\robos-base\include\jerror.h
+
+1416572932 source:b:\code\codeblocks\robos-base\labirintoteste.cpp
+	"LabirintoTeste.h"
+	<iostream>
+	<fstream>
+
+1415123860 b:\code\codeblocks\robos-base\labirintoteste.h
+	<fstream>
+	"Labirinto.h"
+
+1320030178 .h"
+
+1415034032 source:b:\code\codeblocks\robos-base\robob9.cpp
+	"RoboB9.h"
+	"GL.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<time.h>
+
+1415032720 b:\code\codeblocks\robos-base\robob9.h
+	"Labirinto.h"
+	"Robo.h"
+	"Texture.h"
+
+1415032720 source:b:\code\codeblocks\robos-base\texture.cpp
+	<math.h>
+	<string.h>
+	<vector>
+	"Texture.h"
+
+1416939075 source:b:\code\codeblocks\robos-base\main.cpp
+	"LabirintoTeste.h"
+	"RoboB9.h"
+	"C3PO.h"
+	"R2D2.h"
+	"Walle.h"
+	"GL.h"
+
+1320060104 source:/home/PORTOALEGRE/14104086/Downloads/robos-base/GL.cpp
+	"GL.h"
+	<sstream>
+
+1320060021 /home/PORTOALEGRE/14104086/Downloads/robos-base/GL.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cmath>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Labirinto.h"
+	"Robo.h"
+	"Texture.h"
+
+1320027536 /home/PORTOALEGRE/14104086/Downloads/robos-base/include/GL/glut.h
+	"freeglut.h"
+
+1320027536 /home/PORTOALEGRE/14104086/Downloads/robos-base/include/GL/freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1320027536 /home/PORTOALEGRE/14104086/Downloads/robos-base/include/GL/freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1320027536 /home/PORTOALEGRE/14104086/Downloads/robos-base/include/GL/freeglut_ext.h
+
+1320013431 /home/PORTOALEGRE/14104086/Downloads/robos-base/Labirinto.h
+	"Point.h"
+	<string>
+
+1320013445 /home/PORTOALEGRE/14104086/Downloads/robos-base/Point.h
+
+1320013830 /home/PORTOALEGRE/14104086/Downloads/robos-base/Robo.h
+	<vector>
+	"Point.h"
+
+1320024114 /home/PORTOALEGRE/14104086/Downloads/robos-base/Texture.h
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<jpeglib.h>
+
+1320027536 /home/PORTOALEGRE/14104086/Downloads/robos-base/include/jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1320027536 /home/PORTOALEGRE/14104086/Downloads/robos-base/include/jconfig.h
+
+1320027536 /home/PORTOALEGRE/14104086/Downloads/robos-base/include/jmorecfg.h
+
+1320027536 /home/PORTOALEGRE/14104086/Downloads/robos-base/include/jerror.h
+
+1414781294 source:/home/PORTOALEGRE/14104086/Downloads/robos-base/LabirintoTeste.cpp
+	"LabirintoTeste.h"
+	<iostream>
+	<fstream>
+
+1320026578 /home/PORTOALEGRE/14104086/Downloads/robos-base/LabirintoTeste.h
+	<fstream>
+	"Labirinto.h"
+
+1414781343 source:/home/PORTOALEGRE/14104086/Downloads/robos-base/main.cpp
+	"LabirintoTeste.h"
+	"RoboB9.h"
+	"GL.h"
+
+1320025878 /home/PORTOALEGRE/14104086/Downloads/robos-base/RoboB9.h
+	"Labirinto.h"
+	"Robo.h"
+	"Texture.h"
+
+1320027304 source:/home/PORTOALEGRE/14104086/Downloads/robos-base/RoboB9.cpp
+	"RoboB9.h"
+	"GL.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1320024172 source:/home/PORTOALEGRE/14104086/Downloads/robos-base/Texture.cpp
+	<math.h>
+	<string.h>
+	<vector>
+	"Texture.h"
+
+1416838425 source:b:\code\codeblocks\robos-base\c3po.cpp
+	"C3PO.h"
+	"GL.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<time.h>
+
+1416571968 b:\code\codeblocks\robos-base\c3po.h
+	"Labirinto.h"
+	"Robo.h"
+	"Texture.h"
+
+1416572634 source:b:\code\codeblocks\robos-base\r2d2.cpp
+	"R2D2.h"
+	"GL.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<time.h>
+
+1416571198 b:\code\codeblocks\robos-base\r2d2.h
+	"Labirinto.h"
+	"Robo.h"
+	"Texture.h"
+
+1416946205 b:\code\codeblocks\robos-base\walle.h
+	"Labirinto.h"
+	"Robo.h"
+	"Texture.h"
+	"Arvore.h"
+	<list>
+
+1416946444 source:b:\code\codeblocks\robos-base\walle.cpp
+	"Walle.h"
+	"GL.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<time.h>
+
+1416337809 b:\code\codeblocks\robos-base\arvbinaria.h
+	"NODOAB.h"
+	<sstream>
+
+1416506979 b:\code\codeblocks\robos-base\nodoab.h
+	<string>
+	<sstream>
+
+1416572614 source:c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\c3po.cpp
+	"C3PO.h"
+	"GL.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<time.h>
+
+1416571967 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\c3po.h
+	"Labirinto.h"
+	"Robo.h"
+	"Texture.h"
+
+1415810789 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\labirinto.h
+	"Point.h"
+	<string>
+
+1416334160 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\point.h
+
+1415212650 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\robo.h
+	<vector>
+	"Point.h"
+	"Texture.h"
+
+1415032719 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\texture.h
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<jpeglib.h>
+
+1415032720 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1415032720 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1415032720 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\include\gl\freeglut_ext.h
+
+1415032720 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\include\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1415032720 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\include\jconfig.h
+
+1415032720 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\include\jmorecfg.h
+
+1415032720 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\include\jerror.h
+
+1415032719 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\gl.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cmath>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Labirinto.h"
+	"Robo.h"
+	"Texture.h"
+
+1415032720 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\include\gl\glut.h
+	"freeglut.h"
+
+1415212656 source:c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\gl.cpp
+	"GL.h"
+	<sstream>
+
+1416572930 source:c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\labirintoteste.cpp
+	"LabirintoTeste.h"
+	<iostream>
+	<fstream>
+
+1415123858 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\labirintoteste.h
+	<fstream>
+	"Labirinto.h"
+
+1416591943 source:c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\main.cpp
+	"LabirintoTeste.h"
+	"RoboB9.h"
+	"C3PO.h"
+	"R2D2.h"
+	"Walle.h"
+	"GL.h"
+
+1415032719 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\robob9.h
+	"Labirinto.h"
+	"Robo.h"
+	"Texture.h"
+
+1416571197 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\r2d2.h
+	"Labirinto.h"
+	"Robo.h"
+	"Texture.h"
+
+1416614229 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\walle.h
+	"Labirinto.h"
+	"Robo.h"
+	"Texture.h"
+	"Arvore.h"
+
+1416599346 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\arvore.h
+	"NODO.h"
+	<sstream>
+
+1416610886 c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\nodo.h
+	<string>
+	<sstream>
+
+1416572632 source:c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\r2d2.cpp
+	"R2D2.h"
+	"GL.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<time.h>
+
+1415034030 source:c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\robob9.cpp
+	"RoboB9.h"
+	"GL.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<time.h>
+
+1415032719 source:c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\texture.cpp
+	<math.h>
+	<string.h>
+	<vector>
+	"Texture.h"
+
+1416617306 source:c:\users\Érico\google drive\aula\engenharia\lapro2\codeblocks\codeblocks\robos-base\walle.cpp
+	"Walle.h"
+	"GL.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<time.h>
+
+1416943316 b:\code\codeblocks\robos-base\arvore.h
+	"Nodo.h"
+	<sstream>
+
+1416610888 b:\code\codeblocks\robos-base\nodo.h
+	<string>
+	<sstream>
+
+1416838425 source:d:\erico\documents\codes\robos-base_new\robos-base\c3po.cpp
+	"C3PO.h"
+	"GL.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<time.h>
+
+1416571968 d:\erico\documents\codes\robos-base_new\robos-base\c3po.h
+	"Labirinto.h"
+	"Robo.h"
+	"Texture.h"
+
+1415810790 d:\erico\documents\codes\robos-base_new\robos-base\labirinto.h
+	"Point.h"
+	<string>
+
+1416334162 d:\erico\documents\codes\robos-base_new\robos-base\point.h
+
+1415212652 d:\erico\documents\codes\robos-base_new\robos-base\robo.h
+	<vector>
+	"Point.h"
+	"Texture.h"
+
+1415032720 d:\erico\documents\codes\robos-base_new\robos-base\texture.h
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<jpeglib.h>
+
+1415032722 d:\erico\documents\codes\robos-base_new\robos-base\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1415032722 d:\erico\documents\codes\robos-base_new\robos-base\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1415032722 d:\erico\documents\codes\robos-base_new\robos-base\include\gl\freeglut_ext.h
+
+1415032722 d:\erico\documents\codes\robos-base_new\robos-base\include\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1415032722 d:\erico\documents\codes\robos-base_new\robos-base\include\jconfig.h
+
+1415032722 d:\erico\documents\codes\robos-base_new\robos-base\include\jmorecfg.h
+
+1415032722 d:\erico\documents\codes\robos-base_new\robos-base\include\jerror.h
+
+1415032720 d:\erico\documents\codes\robos-base_new\robos-base\gl.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cmath>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Labirinto.h"
+	"Robo.h"
+	"Texture.h"
+
+1415032722 d:\erico\documents\codes\robos-base_new\robos-base\include\gl\glut.h
+	"freeglut.h"
+
+1415212658 source:d:\erico\documents\codes\robos-base_new\robos-base\gl.cpp
+	"GL.h"
+	<sstream>
+
+1416572932 source:d:\erico\documents\codes\robos-base_new\robos-base\labirintoteste.cpp
+	"LabirintoTeste.h"
+	<iostream>
+	<fstream>
+
+1415123860 d:\erico\documents\codes\robos-base_new\robos-base\labirintoteste.h
+	<fstream>
+	"Labirinto.h"
+
+1416939075 source:d:\erico\documents\codes\robos-base_new\robos-base\main.cpp
+	"LabirintoTeste.h"
+	"RoboB9.h"
+	"C3PO.h"
+	"R2D2.h"
+	"Walle.h"
+	"GL.h"
+
+1415032720 d:\erico\documents\codes\robos-base_new\robos-base\robob9.h
+	"Labirinto.h"
+	"Robo.h"
+	"Texture.h"
+
+1416571198 d:\erico\documents\codes\robos-base_new\robos-base\r2d2.h
+	"Labirinto.h"
+	"Robo.h"
+	"Texture.h"
+
+1416964317 d:\erico\documents\codes\robos-base_new\robos-base\walle.h
+	"Labirinto.h"
+	"Robo.h"
+	"Texture.h"
+	"Arvore.h"
+	<list>
+
+1416943316 d:\erico\documents\codes\robos-base_new\robos-base\arvore.h
+	"Nodo.h"
+	<sstream>
+
+1416610888 d:\erico\documents\codes\robos-base_new\robos-base\nodo.h
+	<string>
+	<sstream>
+
+1416572634 source:d:\erico\documents\codes\robos-base_new\robos-base\r2d2.cpp
+	"R2D2.h"
+	"GL.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<time.h>
+
+1415034032 source:d:\erico\documents\codes\robos-base_new\robos-base\robob9.cpp
+	"RoboB9.h"
+	"GL.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<time.h>
+
+1415032720 source:d:\erico\documents\codes\robos-base_new\robos-base\texture.cpp
+	<math.h>
+	<string.h>
+	<vector>
+	"Texture.h"
+
+1416964780 source:d:\erico\documents\codes\robos-base_new\robos-base\walle.cpp
+	"Walle.h"
+	"GL.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<time.h>
+
